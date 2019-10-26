@@ -1,0 +1,11 @@
+
+    PRGNAM="regex"
+    VERSION="2018-06-01"
+    HOMEPAGE="https://bitbucket.org/mrabarnett/mrab-regex/src/default/"
+    DOWNLOAD="https://mega.nz/#!63QmlARa!9ix6cgSvNSsSTaYGc3XEem60AUJhpG9uOyvj75bhrx0"
+    MD5SUM="ebe25996f83b2d3efc2b64a48f1213b"
+    DOWNLOAD_x86_64=""
+    MD5SUM_x86_64=""
+    REQUIRES=""
+    MAINTAINER="Dionysis Ntreou"
+    EMAIL="yakizarns1@gmail.com"
